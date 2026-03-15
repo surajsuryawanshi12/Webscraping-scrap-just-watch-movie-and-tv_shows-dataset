@@ -396,9 +396,3 @@ Your project demonstrates:
 | Code structure | ⭐⭐    |
 | Optimization   | ⭐⭐    |
 
-Overall Level → **Intermediate Python Data Engineer**
-Just tell me:
-
-> **"Upgrade my scraper"**
-
-and I’ll rebuild it professionally.
