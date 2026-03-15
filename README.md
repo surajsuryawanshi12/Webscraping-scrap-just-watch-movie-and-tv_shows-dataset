@@ -397,9 +397,6 @@ Your project demonstrates:
 | Optimization   | ⭐⭐    |
 
 Overall Level → **Intermediate Python Data Engineer**
-
-
-
 Just tell me:
 
 > **"Upgrade my scraper"**
