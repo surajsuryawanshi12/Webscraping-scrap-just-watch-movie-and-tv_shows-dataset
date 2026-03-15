@@ -398,15 +398,7 @@ Your project demonstrates:
 
 Overall Level → **Intermediate Python Data Engineer**
 
----
 
-# 🚀 If You Want, I Can Also
-
-* Refactor your script into professional production code
-* Add async scraping (10× faster)
-* Convert it into API or dashboard
-* Add logging system
-* Add retry logic + proxy rotation
 
 Just tell me:
 
